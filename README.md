@@ -6,7 +6,7 @@ This project was completed as part of the **Spring 2025 offering of _Introductio
 
 ---
 
-## 📁 File Structure and Instructions
+## File Structure and Instructions
 
 Place all `.sol` files inside the `contracts/` directory in Remix.  
 The JavaScript simulation scripts can be placed anywhere (preferably under `scripts/`).  
@@ -26,7 +26,7 @@ scripts/
 
 ---
 
-## 🔁 Simulation 1: DEX Activity (Liquidity + Swaps)
+##  Simulation 1: DEX Activity (Liquidity + Swaps)
 
 **Script:** `simulate_DEX.js`  
 **Function:** `deployAndSimulateDEX()`  
@@ -53,7 +53,7 @@ scripts/
 
 ---
 
-## 💱 Simulation 2: Arbitrage Detection & Execution
+##  Simulation 2: Arbitrage Detection & Execution
 
 **Script:** `simulate_arbitrage.js`  
 **Purpose:** Simulate arbitrage opportunities across two independent DEX pools.
@@ -81,7 +81,7 @@ scripts/
 
 ---
 
-## ✔️ Summary
+##  Summary
 
 This project demonstrates:
 - AMM-based DEX implementation (Uniswap V2–style `x*y=k`)
